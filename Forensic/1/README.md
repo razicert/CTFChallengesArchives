@@ -1,4 +1,4 @@
-# Error log (Syskron Security CTF)
+# Error log (Syskron Security CTF 2019)
 
 > Something doesn't look right here.
 >
