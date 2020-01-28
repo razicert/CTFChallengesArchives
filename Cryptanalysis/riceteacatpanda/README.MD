@@ -1,8 +1,7 @@
 **Challenge Name:**
-
 HOOOOOOOOOOMEEEEEE RUNNNNNNNNNNNNN!!!!!
-**Points:**
 
+**Points:**
 50
 
 **Description:**
