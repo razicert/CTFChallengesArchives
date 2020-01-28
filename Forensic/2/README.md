@@ -1,5 +1,5 @@
 # riceteacatpanda CTF 2020 <br/>
-**category: Forensics ** <br/>
+**Category: Forensics** <br/>
 **Challenge Name:** <br/>
 cat-chat
 
