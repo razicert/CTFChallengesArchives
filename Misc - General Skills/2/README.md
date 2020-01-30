@@ -12,7 +12,7 @@ may break my bones but words could never hurt me
 
 
 **Hint:** <br/>
-https://github.com/JEF1056/riceteacatpanda/tree/master/Sticks and Stones (50)
+https://github.com/JEF1056/riceteacatpanda/tree/master/Sticks%20and%20Stones%20(50)
 
 
 
