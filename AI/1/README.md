@@ -1,5 +1,5 @@
 # riceteacatpanda CTF 2020 <br/>
-**category: Cryptography** <br/>
+**category: AI** <br/>
 **Challenge Name:** <br/>
 Meta-Dreams
 
